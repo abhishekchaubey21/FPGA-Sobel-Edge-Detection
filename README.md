@@ -1,4 +1,4 @@
-# FPGA-Sobel-Edge-Detection
+
 # FPGA-Based Sobel Edge Detection Using Verilog HDL
 
 ## Overview
